@@ -118,3 +118,12 @@ The UI will open at `http://localhost:8501`
 - **Frontend:** Streamlit
 - **Data Source:** arXiv API
 - **LLM:** OpenAI GPT-4o-mini (configurable)
+
+
+## Video Demo:
+
+
+https://github.com/user-attachments/assets/a2d6f2fe-3bfe-4cc3-ac5c-5c4f80cef5f7
+
+
+
