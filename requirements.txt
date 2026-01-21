@@ -1,0 +1,25 @@
+# Research Assistant - Dependencies
+
+# Backend Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.0.0
+
+# AutoGen Multi-Agent Framework
+autogen-agentchat>=0.4.0
+autogen-core>=0.4.0
+autogen-ext>=0.4.0
+
+# OpenAI (required by AutoGen)
+openai>=1.0.0
+
+# arXiv API Client
+arxiv>=2.1.0
+
+# Frontend
+streamlit>=1.30.0
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
+httpx>=0.26.0
